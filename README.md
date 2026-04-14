@@ -420,3 +420,4 @@ Big thanks to the following:
 -   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) (MIT), used by this Action to deploy previews
 -   [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) (MIT), used by this Action to leave a sticky comment on pull requests
 -   [Everyone who has contributed](https://github.com/rossjrw/pr-preview-action/graphs/contributors) to this Action
+a
